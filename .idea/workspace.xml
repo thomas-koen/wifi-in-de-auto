@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Test remote theme">
+      <change afterPath="$PROJECT_DIR$/.sass-cache/cdd4189f2dedf713782961164fc90c800fcccbe4/_mixins.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/cdd4189f2dedf713782961164fc90c800fcccbe4/_modular-scale.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/cdd4189f2dedf713782961164fc90c800fcccbe4/_reset.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/cdd4189f2dedf713782961164fc90c800fcccbe4/_typography.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/cdd4189f2dedf713782961164fc90c800fcccbe4/_variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/d5744aad7a4e1ef6b25ba6f90e5c349fe6695a0f/_flex.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/d5744aad7a4e1ef6b25ba6f90e5c349fe6695a0f/_normalize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/d5744aad7a4e1ef6b25ba6f90e5c349fe6695a0f/_sassline-base.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/d5744aad7a4e1ef6b25ba6f90e5c349fe6695a0f/_settings.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/d5744aad7a4e1ef6b25ba6f90e5c349fe6695a0f/_syntax.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/d5744aad7a4e1ef6b25ba6f90e5c349fe6695a0f/_theme.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/d5744aad7a4e1ef6b25ba6f90e5c349fe6695a0f/alembic.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-11-13-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kEwiIvoikoFbJFPildwXKg44CA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="" />
+      <created>1605279184287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605279184287</updated>
+      <workItem from="1605279185632" duration="2953000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial site commit">
+      <created>1605280423727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605280423727</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test remote theme">
+      <created>1605281135150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605281135150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial site commit" />
+    <MESSAGE value="Test remote theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test remote theme" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="387" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605279210812">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="724" y="387" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1170/0.0.1920.1170@0.0.1920.1170" timestamp="1605279210812" />
+    <state x="585" y="172" key="CommitChangelistDialog2" timestamp="1605282108260">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="585" y="172" key="CommitChangelistDialog2/-1920.0.1920.1170/0.0.1920.1170@0.0.1920.1170" timestamp="1605282108260" />
+    <state x="552" y="318" key="Vcs.Push.Dialog.v2" timestamp="1605281137646">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="552" y="318" key="Vcs.Push.Dialog.v2/-1920.0.1920.1170/0.0.1920.1170@0.0.1920.1170" timestamp="1605281137646" />
+  </component>
+</project>
