@@ -2,6 +2,7 @@
 title: Wifi in de auto, wat is het?
 layout: page
 feature_image: "/assets/images/lamborghini-interieur.jpg"
+aside: true
 feature_text: |
   ## Autorijden zonder stress...
 ---
