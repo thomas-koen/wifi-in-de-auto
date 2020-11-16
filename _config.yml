@@ -35,6 +35,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
+- title: Wat is WiFi in de auto
+  url: /wat-is-het/
 - title: Hoe werkt het
   url: /hoe-werkt-het/
 - title: MiFi router kopen
