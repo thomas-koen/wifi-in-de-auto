@@ -1,0 +1,17 @@
+<nav class="nav  nav--paginator">
+
+    {% if paginator.previous_page %}
+    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination  pagination--previous">&larr; Nieuwer</a>
+    {% else %}
+    <span class="pagination  pagination--previous">&larr; Nieuwer</span>
+    {% endif %}
+
+    <span class="pagination  pagination--counter">Pagina: {{ paginator.page }} van {{ paginator.total_pages }}</span>
+
+    {% if paginator.next_page %}
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination  pagination--next">Ouder &rarr;</a>
+    {% else %}
+    <span class="pagination  pagination--next">Ouder &rarr;</span>
+    {% endif %}
+
+</nav>

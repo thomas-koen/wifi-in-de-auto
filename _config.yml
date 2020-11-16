@@ -23,9 +23,11 @@ plugins:
 url: 'https://wifi-indeauto.nl'
 baseurl: ''
 title: 'WiFi in de Auto'
-description: 'This is my new website'
+description: 'Met WiFi in de auto heb je WiFi waar je ook bent. Voor laptop, tablet of telefoon. Hoe werkt het, wat kost het, en welke abonnementen zijn er?'
 permalink: pretty
 logo: "/assets/images/mobile-hotspot.png"
+locale: "nl_NL"
+lang: "nl_NL"
 
 # Pagination
 paginate: 5
@@ -33,10 +35,8 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
-  url: /
 - title: Wat is WiFi in de auto
-  url: /wat-is-het/
+  url: /
 - title: Hoe werkt het
   url: /hoe-werkt-het/
 - title: MiFi router kopen
