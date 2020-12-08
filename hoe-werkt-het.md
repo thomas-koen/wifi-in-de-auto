@@ -1,7 +1,7 @@
 ---
 title: Wifi in de auto, hoe werkt het?
 layout: page
-feature_image: "/assets/images/mensen-in-auto.jpg"
+feature_image: "/assets/images/telefoon-op-dashboard.jpg"
 feature_text: |
   ## Hoe werkt Wifi in de auto?
 ---

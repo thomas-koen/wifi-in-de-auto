@@ -1,10 +1,8 @@
 ---
 title: Wifi in de auto, wat is het?
 layout: page
-feature_image: "/assets/images/lamborghini-interieur.jpg"
+feature_image: "/assets/images/achterom-kijken.jpg"
 aside: true
-feature_text: |
-  ## Autorijden zonder stress...
 ---
 
 Internet is een fenomeen dat ze veel eerder hadden moeten uitvinden, want wees nu eerlijk, kun jij nog zonder internet? We hebben het tegenwoordig op onze telefoon, thuis en op kantoor door middel van een router en overal waar we gratis wifi kunnen krijgen bij een bak koffie. Internet gebruiken we tegenwoordig voor heel veel doeleinden. Op kantoor om contact te houden met je klanten, maar ook op de telefoon om onze mail te checken of te whatsappen met onze familie en vrienden. En wat dacht je van het muziek luisteren via de telefoon of de smart televisies die op een handige wijze gebruik maken van het internet om jou de nieuwste films te tonen? Internet is er altijd en overal, en we willen ook internet overal!

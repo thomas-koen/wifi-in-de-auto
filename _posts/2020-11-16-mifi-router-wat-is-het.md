@@ -3,7 +3,7 @@ layout: post
 title: "Mifi router: wat is het en hoe werkt het?"
 categories:
 - MiFi
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "/assets/images/huawei-4g-mifi-router.jpg"
 ---
 Het woord Mifi is afgeleid van de woorden mobiel en wifi. Logisch ook want met Mifi heb je een mobiele wifi verbinding die je overal kunt gebruiken, bijvoorbeeld in de auto. Eigenlijk is mifi dus wifi voor onderweg. Heb je dus even geen zin om thuis te zitten maar wil je wel online blijven voor je mailtjes, zakelijke afspraken of dat leuke facebook profiel? Dan is Mifi voor jou de ideale oplossing!
 ## Hoe gebruik ik een Mifi router?

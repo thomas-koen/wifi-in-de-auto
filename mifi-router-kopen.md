@@ -1,7 +1,7 @@
 ---
 title: Mifi router kopen
 layout: page
-feature_image: "/assets/images/laptops-enzo-op-bureau.jpg"
+feature_image: "/assets/images/huawei-4g-mifi-router.jpg"
 feature_text: |
   ## Overal je eigen WiFi netwerk
 ---
