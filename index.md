@@ -13,7 +13,7 @@ Stel je even voor, je stapt in de auto en bent even buiten het bereik van het in
 
 ## Hoe werkt wifi in de auto?
 
-Wifi in de auto kan er voor zorgen dat je op een goedkope manier toch online blijft tijdens je reis. Oké, we kunnen van onze mobiel een hotspot maken en daarmee werken, maar dit internet blijft vaak wat onstabiel. Bovendien zijn er landen waar we onwijs veel moeten betalen als we daar gebruik maken van ons internet. Niet doen dus. Om gebruik te maken van de wifi in de auto zijn er diverse mogelijkheden. Zo kunnen we in nieuwe auto’s steeds vaker een simkaartje toevoegen waarmee we internet kunnen krijgen. Ook zijn er auto’s waar een zogenaamde dongel past. Een van de vrijuit beste oplossingen is de Mifi router, oftewel de Mobiele wifi zoals we die kunnen noemen. Dit apparaatje zorgt er voor dat jij altijd en overal online kunt.
+Wifi in de auto kan er voor zorgen dat je op een goedkope manier toch online blijft tijdens je reis. Oké, we kunnen van onze mobiel een hotspot maken en daarmee werken, maar dit internet blijft vaak wat onstabiel. Bovendien zijn er landen waar we onwijs veel moeten betalen als we daar gebruik maken van ons internet. Niet doen dus. Om gebruik te maken van de wifi in de auto zijn er diverse mogelijkheden. Zo kunnen we in nieuwe auto’s steeds vaker een simkaartje toevoegen waarmee we internet kunnen krijgen. Ook zijn er auto’s waar een zogenaamde dongel past. Een van de vrijuit beste oplossingen is de [MiFi router]({{ site.baseurl }}{% link mifi-router-kopen.md %}), oftewel de Mobiele wifi zoals we die kunnen noemen. Dit apparaatje zorgt er voor dat jij altijd en overal online kunt.
 
 ## Autorijden zonder stress!
 
@@ -21,5 +21,5 @@ Wifi in de auto, het klinkt zo simpel, maar het levert je zo onwijs veel nieuwe 
 
 ## Is wifi in de auto duur?
 
-Nee wifi in de auto is zeker geen dure hobby. Afhankelijk van je auto zal je meestal wel een apparaatje nodig hebben die de wifi gaat doorgeven. Bijvoorbeeld een Mifi router, een dongel of een andere vorm die als router fungeert. Daarnaast heb je een internet abonnement nodig. Deze heb je al vanaf €10,= per maand. Het is heel slim om wat aanbieders met elkaar te vergelijken en te zien wat je krijgt voor je geld. Wat je nodig hebt is alleen een data abonnement, je hebt dus geen bel abonnement nodig. Niet elke provider biedt dit nog aan, al zal dit in de toekomst vast wel gaan veranderen!
+Nee wifi in de auto is zeker geen dure hobby. Afhankelijk van je auto zal je meestal wel een apparaatje nodig hebben die de wifi gaat doorgeven. Bijvoorbeeld een [MiFi router]({{ site.baseurl }}{% link mifi-router-kopen.md %}), een dongel of een andere vorm die als router fungeert. Daarnaast heb je een internet abonnement nodig. Deze heb je al vanaf €10,= per maand. Het is heel slim om wat aanbieders met elkaar te vergelijken en te zien wat je krijgt voor je geld. Wat je nodig hebt is alleen een data abonnement, je hebt dus geen bel abonnement nodig. Niet elke provider biedt dit nog aan, al zal dit in de toekomst vast wel gaan veranderen!
 
