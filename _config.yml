@@ -3,21 +3,23 @@ remote_theme: daviddarnes/alembic
 
 # File excludes
 exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 
 # Set plugins
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-default-layout
-- jekyll-feed
-- jemoji
-- jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-commonmark
+  - jekyll-include-cache
+  - jemoji
+  - jekyll-remote-theme
+
 
 # Site settings
 url: 'https://wifi-indeauto.nl'
@@ -35,23 +37,23 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Wat is WiFi in de auto
-  url: /
-- title: Hoe werkt het
-  url: /hoe-werkt-het/
-- title: MiFi router kopen
-  url: /mifi-router-kopen/
-- title: Blog
-  url: /blog/
+  - title: Wat is WiFi in de auto
+    url: /
+  - title: Hoe werkt het
+    url: /hoe-werkt-het/
+  - title: MiFi router kopen
+    url: /mifi-router-kopen/
+  - title: Blog
+    url: /blog/
 
 # Footer nav
 navigation_footer:
-- title: Links
-  url: /links/
-- title: Over ons
-  url: /over/
-- title: Terug naar boven
-  url: "#top"
+  - title: Links
+    url: /links/
+  - title: Over ons
+    url: /over/
+  - title: Terug naar boven
+    url: "#top"
 
 # Collections
 collections:

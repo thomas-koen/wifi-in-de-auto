@@ -4,6 +4,7 @@
     <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <workItem from="1615799843136" duration="1766000" />
       <workItem from="1615824421732" duration="556000" />
       <workItem from="1615825933614" duration="558000" />
-      <workItem from="1615909858118" duration="1466000" />
+      <workItem from="1615909858118" duration="2082000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -166,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615809077420</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Test fix gemfile">
+      <created>1615911365268</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1615911365268</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +195,7 @@
     <MESSAGE value="Google site verification" />
     <MESSAGE value="Link toevoegen" />
     <MESSAGE value="Update bundle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update bundle" />
+    <MESSAGE value="Test fix gemfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test fix gemfile" />
   </component>
 </project>
