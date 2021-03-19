@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,7 @@
       <workItem from="1615799843136" duration="1766000" />
       <workItem from="1615824421732" duration="556000" />
       <workItem from="1615825933614" duration="558000" />
-      <workItem from="1615909858118" duration="2082000" />
+      <workItem from="1615909858118" duration="3731000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -182,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615911365268</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Update bundle">
+      <created>1615911989842</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1615911989842</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Alembic main">
+      <created>1615912169273</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1615912169273</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,8 +214,9 @@
     <MESSAGE value="Interne links" />
     <MESSAGE value="Google site verification" />
     <MESSAGE value="Link toevoegen" />
-    <MESSAGE value="Update bundle" />
     <MESSAGE value="Test fix gemfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test fix gemfile" />
+    <MESSAGE value="Update bundle" />
+    <MESSAGE value="Alembic main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alembic main" />
   </component>
 </project>

@@ -12,3 +12,7 @@ title: Over deze website
 <a href="https://www.extremecarstyling.nl/wagner-tuning" target="_blank">extremecarstyling.nl</a>
 
 <a href="https://www.cards3dprinting.com/ultimaker/3d-printers/ultimaker-2/">ultimaker 2</a>
+
+<a href="https://www.glasgarage.nl">Glasgarage</a>
+
+<a href="https://www.updatenavigatie.nl">TomTom update</a>
