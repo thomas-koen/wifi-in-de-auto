@@ -67,6 +67,7 @@
       <workItem from="1615824421732" duration="556000" />
       <workItem from="1615825933614" duration="558000" />
       <workItem from="1615909858118" duration="3731000" />
+      <workItem from="1616165322708" duration="699000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -194,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615912169273</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Nieuwe links toevoegen">
+      <created>1616165420230</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1616165420230</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +225,7 @@
     <MESSAGE value="Test fix gemfile" />
     <MESSAGE value="Update bundle" />
     <MESSAGE value="Alembic main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alembic main" />
+    <MESSAGE value="Nieuwe links toevoegen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nieuwe links toevoegen" />
   </component>
 </project>

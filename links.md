@@ -16,3 +16,11 @@ title: Over deze website
 <a href="https://www.glasgarage.nl">Glasgarage</a>
 
 <a href="https://www.updatenavigatie.nl">TomTom update</a>
+
+<a href="https://www.easyhost.be/nl/domeinnaam-kopen">domeinnaam</a>
+
+<a href="https://www.combell.com/nl/hosting/webhosting">webhosting</a>
+
+<a href="https://www.transip.nl/webhosting/">webhost</a>
+
+<a href="https://www.breedband.nl/zakelijk-glasvezelinternet/">Zakelijk glasvezel</a>
