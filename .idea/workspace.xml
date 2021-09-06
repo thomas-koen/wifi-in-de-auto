@@ -70,6 +70,7 @@
       <workItem from="1616165322708" duration="699000" />
       <workItem from="1618574086006" duration="227000" />
       <workItem from="1621240576106" duration="629000" />
+      <workItem from="1629711631514" duration="462000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -218,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621240732686</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Update links">
+      <created>1629711792076</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1629711792076</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +241,6 @@
     <MESSAGE value="Update icons and blog page" />
     <MESSAGE value="Vertaling" />
     <MESSAGE value="Sidebar toevoegen" />
-    <MESSAGE value="Update links" />
     <MESSAGE value="Update afbeeldingen" />
     <MESSAGE value="Interne links" />
     <MESSAGE value="Google site verification" />
@@ -243,6 +250,7 @@
     <MESSAGE value="Alembic main" />
     <MESSAGE value="Nieuwe links toevoegen" />
     <MESSAGE value="Nieuwe linkjes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nieuwe linkjes" />
+    <MESSAGE value="Update links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update links" />
   </component>
 </project>
