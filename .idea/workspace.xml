@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/links.md" beforeDir="false" afterPath="$PROJECT_DIR$/links.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <workItem from="1618574086006" duration="227000" />
       <workItem from="1621240576106" duration="629000" />
       <workItem from="1629711631514" duration="462000" />
-      <workItem from="1630954629437" duration="776000" />
+      <workItem from="1630954629437" duration="1986000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -235,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630954671028</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add link">
+      <created>1630955480397</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1630955480397</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +266,7 @@
     <MESSAGE value="Nieuwe links toevoegen" />
     <MESSAGE value="Nieuwe linkjes" />
     <MESSAGE value="Update links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update links" />
+    <MESSAGE value="add link" />
+    <option name="LAST_COMMIT_MESSAGE" value="add link" />
   </component>
 </project>
