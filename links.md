@@ -48,3 +48,5 @@ title: Over deze website
 <a href="https://microfix.nl/telefoon-reparatie/leiden/" target="_blank">Telefoon reparatie Leiden</a> 
 
 <a href="https://www.privatelease-aanbiedingen.nl/" target="_blank">privatelease-aanbiedingen.nl</a> 
+
+<a href="https://www.diks.nl/motorverzekering/" target="_blank">Motorverzekering</a>
