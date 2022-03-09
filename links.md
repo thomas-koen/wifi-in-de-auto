@@ -50,3 +50,5 @@ title: Over deze website
 <a href="https://www.privatelease-aanbiedingen.nl/" target="_blank">privatelease-aanbiedingen.nl</a> 
 
 <a href="https://www.diks.nl/motorverzekering/" target="_blank">Motorverzekering</a>
+
+<a href="https://www.gearbooker.com/nl/huur-gimbals-51-c" target="_blank">Gimbal huren</a>
