@@ -52,3 +52,7 @@ title: Over deze website
 <a href="https://www.diks.nl/motorverzekering/" target="_blank">Motorverzekering</a>
 
 <a href="https://www.gearbooker.com/nl/huur-gimbals-51-c" target="_blank">Gimbal huren</a>
+
+<a href="https://www.aluminized.nl/aluminiumbewerking/lasersnijden/laser-graveren/" target="_blank">laser graveren</a>
+
+<a href="https://www.vandijckbikes.nl/nl/accu-elektrische-fiets" target="_blank">accu elektrische fiets</a>
