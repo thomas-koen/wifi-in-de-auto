@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Update links" />
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Update links">
+      <change afterPath="$PROJECT_DIR$/_posts/2022-4-19-wat-is-de-beste-garagedeur.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2022-4-8-hoe-veilig-is-jouw-camper.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/campers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/garagedeur.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/links.md" beforeDir="false" afterPath="$PROJECT_DIR$/links.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +56,23 @@
       <recent name="C:\Users\mobil\Documents\Websites\wifi-in-de-auto\assets\images" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Jekyll Serve" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="bundle exec jekyll serve --port 5432" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="false" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,6 +102,9 @@
       <workItem from="1641819897965" duration="608000" />
       <workItem from="1643400635341" duration="643000" />
       <workItem from="1646821354614" duration="56000" />
+      <workItem from="1649494605717" duration="737000" />
+      <workItem from="1649657128707" duration="1245000" />
+      <workItem from="1650361232356" duration="1547000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
