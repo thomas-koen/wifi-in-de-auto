@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Update links">
-      <change afterPath="$PROJECT_DIR$/_posts/2022-4-19-wat-is-de-beste-garagedeur.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2022-4-8-hoe-veilig-is-jouw-camper.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/campers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/garagedeur.jpg" afterDir="false" />
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Artikelen plaatsen + links">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/links.md" beforeDir="false" afterPath="$PROJECT_DIR$/links.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +99,7 @@
       <workItem from="1646821354614" duration="56000" />
       <workItem from="1649494605717" duration="737000" />
       <workItem from="1649657128707" duration="1245000" />
-      <workItem from="1650361232356" duration="1547000" />
+      <workItem from="1650361232356" duration="2441000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -309,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646821404788</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Artikelen plaatsen + links">
+      <created>1650363093461</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1650363093461</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +351,7 @@
     <MESSAGE value="Links plaatsen + openen in nieuw venster" />
     <MESSAGE value="Link" />
     <MESSAGE value="Update links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update links" />
+    <MESSAGE value="Artikelen plaatsen + links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Artikelen plaatsen + links" />
   </component>
 </project>
