@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Artikelen plaatsen + links">
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Update links">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/links.md" beforeDir="false" afterPath="$PROJECT_DIR$/links.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +101,11 @@
       <workItem from="1649494605717" duration="737000" />
       <workItem from="1649657128707" duration="1245000" />
       <workItem from="1650361232356" duration="2441000" />
+      <workItem from="1657007546901" duration="1122000" />
+      <workItem from="1657199144488" duration="1210000" />
+      <workItem from="1657362883500" duration="601000" />
+      <workItem from="1657446629634" duration="594000" />
+      <workItem from="1659706616861" duration="103000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -311,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650363093461</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Update links">
+      <created>1657007588390</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1657007588390</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,8 +363,8 @@
     <MESSAGE value="add link" />
     <MESSAGE value="Links plaatsen + openen in nieuw venster" />
     <MESSAGE value="Link" />
-    <MESSAGE value="Update links" />
     <MESSAGE value="Artikelen plaatsen + links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Artikelen plaatsen + links" />
+    <MESSAGE value="Update links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update links" />
   </component>
 </project>

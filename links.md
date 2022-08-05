@@ -62,3 +62,6 @@ title: Over deze website
 <a href="https://rankingmasters.nl/" target="_blank">Rankingmasters.nl</a>
 
 <a href="https://www.boetejuristen.nl/niet-handsfree-bellen/" target="_blank">Boete telefoon auto</a>
+
+<a href="https://www.blackfridaynederland.nl/cyber-monday/" target="_blank">Cyber Monday deals</a>
+
