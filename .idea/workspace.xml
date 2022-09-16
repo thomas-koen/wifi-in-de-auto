@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Update links">
+      <change afterPath="$PROJECT_DIR$/_posts/2022-09-15-internet-auto-hoe-regel-je-dat.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fiat-500-g057880e07_1280.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/links.md" beforeDir="false" afterPath="$PROJECT_DIR$/links.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mobil\Documents\sites\wifi-in-de-auto\assets\images" />
       <recent name="C:\Users\mobil\Documents\Websites\wifi-in-de-auto" />
       <recent name="C:\Users\mobil\Documents\Websites\wifi-in-de-auto\assets\images" />
     </key>
@@ -106,6 +108,9 @@
       <workItem from="1657362883500" duration="601000" />
       <workItem from="1657446629634" duration="594000" />
       <workItem from="1659706616861" duration="103000" />
+      <workItem from="1660051205817" duration="594000" />
+      <workItem from="1660215883836" duration="110000" />
+      <workItem from="1663327606376" duration="672000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
