@@ -9,7 +9,7 @@
     <section class="section  section--description">
         <h3>Laatste blogposts</h3>
             {% for post in site.posts %}
-                <a href="{{ post.url }}">{{ post.title }}</a>
+                <a href="{{ post.url }}">{{ post.title }}</a><br />
             {% endfor %}
         {% include nav-social.html %}
     </section>
