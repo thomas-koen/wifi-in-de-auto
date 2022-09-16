@@ -65,5 +65,5 @@ title: Over deze website
 
 <a href="https://www.blackfridaynederland.nl/cyber-monday/" target="_blank">Cyber Monday deals</a>
 
-<a href="https://www.metronieuws.nl/partnerbijdrage/2022/08/grootste-ergernissen-in-het-verkeer-afval-dumpen-smartphone/ target="_blank">Irritatie top 5 automobilisten</a>
+<a href="https://www.metronieuws.nl/partnerbijdrage/2022/08/grootste-ergernissen-in-het-verkeer-afval-dumpen-smartphone/" target="_blank">Irritatie top 5 automobilisten</a>
 
