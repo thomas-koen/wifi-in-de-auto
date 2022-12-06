@@ -6,8 +6,6 @@ categories:
 - Auto
 ---
 
-# Wat heb je nodig in de auto?
-
 De auto is een vervoersmiddel wat voor veel mensen niet meer weg te denken is uit het dagelijks leven. Door de jaren heen zijn veel mensen steeds afhankelijker geworden van hun auto. In de ochtend stappen ze in de auto om naar hun werk te gaan. Vervolgens pakken ze na hun werkdag weer de auto om weer comfortabel naar huis te reizen. Ook ritjes naar de supermarkt worden door veel mensen met de auto gedaan. Voor mensen die veel uren doorbrengen in hun auto, is het fijn als dat een comfortabele plek met bijvoorbeeld handige producten van [SP connect](https://www.emounting.nl/brands/sp-connect/) is.
 
 ## Telefoon in de auto
