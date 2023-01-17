@@ -67,3 +67,8 @@ title: Over deze website
 
 <a href="https://www.metronieuws.nl/partnerbijdrage/2022/08/grootste-ergernissen-in-het-verkeer-afval-dumpen-smartphone/" target="_blank">Irritatie top 5 automobilisten</a>
 
+<a href="https://www.pothelm.nl/nl/handschoenen/" target="_blank">Handschoenen auto</a>
+
+<a href="https://www.businessstickers.nl/product/maatwerkstickers/autostickers" target="_blank">autostickers laten maken</a>
+
+<a href="https://www.suitableshop.nl/jassen/mantels/" target="_blank">trenchcoat heren</a>
