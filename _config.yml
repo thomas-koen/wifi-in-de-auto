@@ -64,6 +64,7 @@ collections:
     feature_text: |
       ## WiFi in de auto blog
     feature_image: "/assets/images/auto-parkeerplaats.jpg"
+    permalink: /:categories/:title
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"

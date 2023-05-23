@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Links plaatsen">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-5-14-belang-geschikte-laadkabel-renault-zoe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2023-5-16-laadpaal-huis-ultieme-gids-installatieproces.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/zoe-laadkabel.jpg" afterDir="false" />
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="artikelen zoe laaadkabel en laadpaal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,19 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/mobil/Documents/sites/wifi-in-de-auto/_posts",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mobil/Documents/sites/wifi-in-de-auto/_posts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mobil\Documents\sites\wifi-in-de-auto\_posts" />
@@ -131,7 +134,8 @@
       <workItem from="1673530857845" duration="591000" />
       <workItem from="1673532653322" duration="699000" />
       <workItem from="1674036379365" duration="1198000" />
-      <workItem from="1684324442579" duration="530000" />
+      <workItem from="1684324442579" duration="1099000" />
+      <workItem from="1684830010906" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -399,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673365491699</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="artikelen zoe laaadkabel en laadpaal">
+      <created>1684325046262</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1684325046262</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,7 +429,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Test remote theme" />
     <MESSAGE value="git add gitignored files temp" />
     <MESSAGE value="Eerste versie website" />
     <MESSAGE value="Update icons and blog page" />
@@ -443,6 +453,7 @@
     <MESSAGE value="nieuw artikel" />
     <MESSAGE value="Titel aanpassen" />
     <MESSAGE value="Nieuwe artikelen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nieuwe artikelen" />
+    <MESSAGE value="artikelen zoe laaadkabel en laadpaal" />
+    <option name="LAST_COMMIT_MESSAGE" value="artikelen zoe laaadkabel en laadpaal" />
   </component>
 </project>
