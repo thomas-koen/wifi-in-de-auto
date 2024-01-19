@@ -73,7 +73,10 @@ title: Over deze website
 
 <a href="https://www.suitableshop.nl/jassen/mantels/" target="_blank">trenchcoat heren</a>
 
-
 <a href="https://kenteken-overschrijven.nl/" target="_blank">Kenteken overschrijven</a>
 
 <a href="https://www.vanjongtotoud.nl" target="_blank">Van jong tot oud</a>
+
+<a href="https://rijschoolhero.nl/rijschool-delft/" target="_blank">Rijschool Delft</a>
+
+<a href="https://www.aanbiedercheck.nl/wat-is-dongel/" target="_blank">Wat is een dongel?</a>

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="fix permalinks" />
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="linkje van jonh tot oud">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,6 +135,18 @@
       <workItem from="1674036379365" duration="1198000" />
       <workItem from="1684324442579" duration="1099000" />
       <workItem from="1684830010906" duration="1241000" />
+      <workItem from="1692023824013" duration="666000" />
+      <workItem from="1692785645449" duration="1175000" />
+      <workItem from="1693216258718" duration="587000" />
+      <workItem from="1693302860764" duration="559000" />
+      <workItem from="1693380629376" duration="592000" />
+      <workItem from="1693929989008" duration="592000" />
+      <workItem from="1694190006339" duration="593000" />
+      <workItem from="1694599629844" duration="587000" />
+      <workItem from="1695045802795" duration="572000" />
+      <workItem from="1695124365442" duration="587000" />
+      <workItem from="1695204153808" duration="568000" />
+      <workItem from="1697018267517" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -414,7 +428,15 @@
       <option name="project" value="LOCAL" />
       <updated>1684830396262</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="linkje van jonh tot oud">
+      <option name="closed" value="true" />
+      <created>1692023907087</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1692023907087</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +455,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Eerste versie website" />
     <MESSAGE value="Update icons and blog page" />
     <MESSAGE value="Vertaling" />
     <MESSAGE value="Sidebar toevoegen" />
@@ -458,6 +479,7 @@
     <MESSAGE value="Nieuwe artikelen" />
     <MESSAGE value="artikelen zoe laaadkabel en laadpaal" />
     <MESSAGE value="fix permalinks" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix permalinks" />
+    <MESSAGE value="linkje van jonh tot oud" />
+    <option name="LAST_COMMIT_MESSAGE" value="linkje van jonh tot oud" />
   </component>
 </project>
