@@ -80,3 +80,5 @@ title: Over deze website
 <a href="https://rijschoolhero.nl/rijschool-delft/" target="_blank">Rijschool Delft</a>
 
 <a href="https://www.aanbiedercheck.nl/wat-is-dongel/" target="_blank">Wat is een dongel?</a>
+
+<a href="https://rijschoolcampus.nl/" target="_blank">rijschool Delft</a>
