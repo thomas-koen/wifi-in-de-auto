@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="linkjes rijschool en dongle">
-      <change afterPath="$PROJECT_DIR$/_posts/2024-06-12-autorit-spelletjes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/kind-in-auto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/moeder-met-kind.jpg" afterDir="false" />
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Nieuw artikel autorit spelletjes">
+      <change afterPath="$PROJECT_DIR$/_posts/2024-07-01-ultieme-playbook-asus-laptop.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vrouw-bed-laptop.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,24 +50,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Shell Script.Jekyll Serve.executor": "Run",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/mobil/Documents/sites/wifi-in-de-auto/_posts",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Shell Script.Jekyll Serve.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mobil/Documents/sites/wifi-in-de-auto/_posts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mobil\Documents\sites\wifi-in-de-auto\_posts" />
@@ -165,7 +164,10 @@
       <workItem from="1695204153808" duration="568000" />
       <workItem from="1697018267517" duration="13000" />
       <workItem from="1705665743748" duration="659000" />
-      <workItem from="1718192118318" duration="321000" />
+      <workItem from="1718192118318" duration="1111000" />
+      <workItem from="1718367135395" duration="597000" />
+      <workItem from="1718633319458" duration="596000" />
+      <workItem from="1719914240865" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -463,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705665805026</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Nieuw artikel autorit spelletjes">
+      <option name="closed" value="true" />
+      <created>1718192631435</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1718192631435</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +492,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Vertaling" />
     <MESSAGE value="Sidebar toevoegen" />
     <MESSAGE value="Update afbeeldingen" />
     <MESSAGE value="Interne links" />
@@ -507,6 +516,7 @@
     <MESSAGE value="fix permalinks" />
     <MESSAGE value="linkje van jonh tot oud" />
     <MESSAGE value="linkjes rijschool en dongle" />
-    <option name="LAST_COMMIT_MESSAGE" value="linkjes rijschool en dongle" />
+    <MESSAGE value="Nieuw artikel autorit spelletjes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nieuw artikel autorit spelletjes" />
   </component>
 </project>
