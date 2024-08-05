@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Nieuw artikel autorit spelletjes">
-      <change afterPath="$PROJECT_DIR$/_posts/2024-07-01-ultieme-playbook-asus-laptop.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/vrouw-bed-laptop.jpg" afterDir="false" />
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Asus laptop artikel">
+      <change afterPath="$PROJECT_DIR$/_posts/2024-08-05-android-auto-wat-hoe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/android-auto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/iphone-zilver.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +168,8 @@
       <workItem from="1718192118318" duration="1111000" />
       <workItem from="1718367135395" duration="597000" />
       <workItem from="1718633319458" duration="596000" />
-      <workItem from="1719914240865" duration="316000" />
+      <workItem from="1719914240865" duration="1579000" />
+      <workItem from="1720010552048" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -473,7 +475,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718192631435</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Asus laptop artikel">
+      <option name="closed" value="true" />
+      <created>1719914625562</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1719914625562</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,7 +502,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Sidebar toevoegen" />
     <MESSAGE value="Update afbeeldingen" />
     <MESSAGE value="Interne links" />
     <MESSAGE value="Google site verification" />
@@ -517,6 +526,7 @@
     <MESSAGE value="linkje van jonh tot oud" />
     <MESSAGE value="linkjes rijschool en dongle" />
     <MESSAGE value="Nieuw artikel autorit spelletjes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nieuw artikel autorit spelletjes" />
+    <MESSAGE value="Asus laptop artikel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Asus laptop artikel" />
   </component>
 </project>
