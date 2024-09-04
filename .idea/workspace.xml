@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Android auto artikel">
-      <change afterPath="$PROJECT_DIR$/_posts/2024-08-23-apple-carplay-installeren.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2024-08-27-odido-zakelijk-besparen.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/bureau.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/carplay.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/man-met-telefoon.jpg" afterDir="false" />
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="internet creators en carplay artikel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +169,7 @@
       <workItem from="1720010552048" duration="597000" />
       <workItem from="1722861161616" duration="514000" />
       <workItem from="1723211130565" duration="617000" />
-      <workItem from="1724874442499" duration="617000" />
+      <workItem from="1724874442499" duration="1340000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -496,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722861077907</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="internet creators en carplay artikel">
+      <option name="closed" value="true" />
+      <created>1724875081208</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1724875081208</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,7 +518,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Interne links" />
     <MESSAGE value="Google site verification" />
     <MESSAGE value="Link toevoegen" />
     <MESSAGE value="Test fix gemfile" />
@@ -540,6 +542,7 @@
     <MESSAGE value="Nieuw artikel autorit spelletjes" />
     <MESSAGE value="Asus laptop artikel" />
     <MESSAGE value="Android auto artikel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Android auto artikel" />
+    <MESSAGE value="internet creators en carplay artikel" />
+    <option name="LAST_COMMIT_MESSAGE" value="internet creators en carplay artikel" />
   </component>
 </project>
