@@ -2,6 +2,7 @@
 layout: post
 title: "LTE-kaart in je auto: ontdek of je auto er een heeft en hoe je deze uitschakelt"
 feature_image: "/assets/images/lte-kaart-in-je-auto.jpg"
+description: "Wil je weten of je auto een LTE-kaart heeft en hoe je deze kunt uitschakelen? Ontdek eenvoudig hoe je de connectiviteit kunt beheren en privacy kunt waarborgen."
 categories:
 - Auto
 ---
