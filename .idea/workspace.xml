@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="artikel autopremies">
-      <change afterPath="$PROJECT_DIR$/assets/images/carplay2.jpg" afterDir="false" />
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="update artikeltje carplay">
+      <change afterPath="$PROJECT_DIR$/_posts/2024-10-08-lte-kaart-in-je-auto.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/4g-sim-in-je-auto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/5g-simkaart-in-de-auto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/lte-kaart-in-je-auto.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-08-23-apple-carplay-installeren.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-08-23-apple-carplay-installeren.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +179,11 @@
       <workItem from="1727083598212" duration="597000" />
       <workItem from="1727267717769" duration="597000" />
       <workItem from="1727360955590" duration="597000" />
-      <workItem from="1727420898559" duration="1615000" />
+      <workItem from="1727420898559" duration="2450000" />
+      <workItem from="1727775663268" duration="588000" />
+      <workItem from="1727873541563" duration="596000" />
+      <workItem from="1727943683981" duration="597000" />
+      <workItem from="1728395872955" duration="1031000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -515,7 +521,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725467949950</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="update artikeltje carplay">
+      <option name="closed" value="true" />
+      <created>1727429888715</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1727429888715</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,7 +548,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Link toevoegen" />
     <MESSAGE value="Test fix gemfile" />
     <MESSAGE value="Update bundle" />
     <MESSAGE value="Alembic main" />
@@ -559,6 +572,7 @@
     <MESSAGE value="Android auto artikel" />
     <MESSAGE value="internet creators en carplay artikel" />
     <MESSAGE value="artikel autopremies" />
-    <option name="LAST_COMMIT_MESSAGE" value="artikel autopremies" />
+    <MESSAGE value="update artikeltje carplay" />
+    <option name="LAST_COMMIT_MESSAGE" value="update artikeltje carplay" />
   </component>
 </project>
