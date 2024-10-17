@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="update artikeltje carplay">
-      <change afterPath="$PROJECT_DIR$/_posts/2024-10-08-lte-kaart-in-je-auto.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/4g-sim-in-je-auto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/5g-simkaart-in-de-auto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/lte-kaart-in-je-auto.jpg" afterDir="false" />
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Update meta description">
+      <change afterPath="$PROJECT_DIR$/_posts/2024-10-17-zakelijke-wifi-site-survey.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/zakelijke-wifi-site-survey.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,7 +181,8 @@
       <workItem from="1727775663268" duration="588000" />
       <workItem from="1727873541563" duration="596000" />
       <workItem from="1727943683981" duration="597000" />
-      <workItem from="1728395872955" duration="1031000" />
+      <workItem from="1728395872955" duration="1258000" />
+      <workItem from="1729153866758" duration="350000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -465,14 +464,6 @@
       <option name="project" value="LOCAL" />
       <updated>1684830396262</updated>
     </task>
-    <task id="LOCAL-00041" summary="linkje van jonh tot oud">
-      <option name="closed" value="true" />
-      <created>1692023907087</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1692023907087</updated>
-    </task>
     <task id="LOCAL-00042" summary="linkjes rijschool en dongle">
       <option name="closed" value="true" />
       <created>1705665805026</created>
@@ -529,7 +520,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727429888715</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Artikel lte-kaart in je auto">
+      <option name="closed" value="true" />
+      <created>1728396923150</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1728396923150</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Update meta description">
+      <option name="closed" value="true" />
+      <created>1728397130800</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1728397130800</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,8 +555,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Test fix gemfile" />
-    <MESSAGE value="Update bundle" />
     <MESSAGE value="Alembic main" />
     <MESSAGE value="Nieuwe links toevoegen" />
     <MESSAGE value="Nieuwe linkjes" />
@@ -573,6 +578,8 @@
     <MESSAGE value="internet creators en carplay artikel" />
     <MESSAGE value="artikel autopremies" />
     <MESSAGE value="update artikeltje carplay" />
-    <option name="LAST_COMMIT_MESSAGE" value="update artikeltje carplay" />
+    <MESSAGE value="Artikel lte-kaart in je auto" />
+    <MESSAGE value="Update meta description" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update meta description" />
   </component>
 </project>
