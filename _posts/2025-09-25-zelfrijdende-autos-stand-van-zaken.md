@@ -88,7 +88,7 @@ Privacy en databescherming vormen andere aandachtspunten. Zelfrijdende auto's ve
 
 Nederland bereidt een nationale strategie voor autonome voertuigen voor, die naar verwachting in 2025 wordt gepubliceerd. Deze moet duidelijkheid scheppen over de langetermijnvisie en benodigde infrastructuurinvesteringen.
 
-{% include video.html id="WdrTjXuw6n8" %}
+{% include video.html id="xQtlh3b2PzY" %}
 
 ## Elon Musk en Tesla's uitdagingen
 
