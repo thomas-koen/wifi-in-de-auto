@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="artikel auto overschrijven">
-      <change afterPath="$PROJECT_DIR$/_posts/2025-09-02-checklist-veilig-gevoel-weg.md" afterDir="false" />
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="artikel met veilig gevoel de weg op checklist">
+      <change afterPath="$PROJECT_DIR$/_posts/2025-09-25-zelfrijdende-autos-stand-van-zaken.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/dashboard-zelfrijdende-auto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/zelfrijdend.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -230,7 +232,8 @@
       <workItem from="1746167242515" duration="563000" />
       <workItem from="1746212256367" duration="568000" />
       <workItem from="1747467538436" duration="569000" />
-      <workItem from="1756813961910" duration="1300000" />
+      <workItem from="1756813961910" duration="2341000" />
+      <workItem from="1758800894517" duration="1285000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -512,14 +515,6 @@
       <option name="project" value="LOCAL" />
       <updated>1684830396262</updated>
     </task>
-    <task id="LOCAL-00044" summary="Asus laptop artikel">
-      <option name="closed" value="true" />
-      <created>1719914625562</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1719914625562</updated>
-    </task>
     <task id="LOCAL-00045" summary="Android auto artikel">
       <option name="closed" value="true" />
       <created>1722861077907</created>
@@ -584,7 +579,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741614103821</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="artikel met veilig gevoel de weg op checklist">
+      <option name="closed" value="true" />
+      <created>1756816575372</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1756816575372</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,7 +606,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Nieuwe linkjes" />
     <MESSAGE value="add link" />
     <MESSAGE value="Links plaatsen + openen in nieuw venster" />
     <MESSAGE value="Link" />
@@ -628,6 +630,7 @@
     <MESSAGE value="Update meta description" />
     <MESSAGE value="Zakelijke wifi artikel" />
     <MESSAGE value="artikel auto overschrijven" />
-    <option name="LAST_COMMIT_MESSAGE" value="artikel auto overschrijven" />
+    <MESSAGE value="artikel met veilig gevoel de weg op checklist" />
+    <option name="LAST_COMMIT_MESSAGE" value="artikel met veilig gevoel de weg op checklist" />
   </component>
 </project>
