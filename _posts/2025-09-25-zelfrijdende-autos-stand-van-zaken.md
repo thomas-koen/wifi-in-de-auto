@@ -2,6 +2,7 @@
 layout: post
 title: "Zelfrijdende auto's: stand van zaken 2025"
 feature_image: "/assets/images/dashboard-zelfrijdende-auto.jpg"
+description: "Stand van zaken zelfrijdende auto's 2025. Welke fabrikanten zijn het verst, waar kun je ze al gebruiken en wanneer komen ze naar Nederland?"
 categories:
 - Auto
 ---
