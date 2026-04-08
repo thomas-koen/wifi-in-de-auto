@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Update meta description" />
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="Laptop kopen artikel">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,8 +109,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.26574.100" />
-        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.26574.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.28141.5" />
+        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.28141.5" />
       </set>
     </attachedChunks>
   </component>
@@ -229,6 +231,7 @@
       <workItem from="1747467538436" duration="569000" />
       <workItem from="1756813961910" duration="2341000" />
       <workItem from="1758800894517" duration="3493000" />
+      <workItem from="1772196089104" duration="901000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -510,14 +513,6 @@
       <option name="project" value="LOCAL" />
       <updated>1684830396262</updated>
     </task>
-    <task id="LOCAL-00048" summary="update artikeltje carplay">
-      <option name="closed" value="true" />
-      <created>1727429888715</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1727429888715</updated>
-    </task>
     <task id="LOCAL-00049" summary="Artikel lte-kaart in je auto">
       <option name="closed" value="true" />
       <created>1728396923150</created>
@@ -582,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758802672607</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Laptop kopen artikel">
+      <option name="closed" value="true" />
+      <created>1772196306712</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1772196306712</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,7 +604,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Link" />
     <MESSAGE value="Artikelen plaatsen + links" />
     <MESSAGE value="Update links" />
     <MESSAGE value="fix newline" />
@@ -626,6 +628,7 @@
     <MESSAGE value="artikel zelfrijdende autos" />
     <MESSAGE value="updaten joeptjoep video" />
     <MESSAGE value="Update meta description" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update meta description" />
+    <MESSAGE value="Laptop kopen artikel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laptop kopen artikel" />
   </component>
 </project>
