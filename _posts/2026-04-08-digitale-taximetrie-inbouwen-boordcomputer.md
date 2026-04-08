@@ -25,7 +25,7 @@ Voordat de installatie plaatsvindt, zijn er een aantal zaken die je op orde moet
 - Een rijkspas op naam van de chauffeur
 - Een afspraak bij een erkend inbouwbedrijf
 
-Wil je weten waar je terechtkunt voor de installatie? Via de mogelijkheid om een CDT taximeter inbouwen te laten uitvoeren, vind je een overzicht van erkende inbouwpartners in jouw regio.
+Wil je weten waar je terechtkunt voor de installatie? Via de mogelijkheid om een [CDT taximeter inbouwen](https://octo.cab/) te laten uitvoeren, vind je een overzicht van erkende inbouwpartners in jouw regio.
 
 ## Praktische tips voor taxichauffeurs die overstappen
 
