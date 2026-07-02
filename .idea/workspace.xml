@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="artikel taximetrie">
+    <list default="true" id="eafb3d07-4d4e-4f87-8c48-39d524b2e6b9" name="Default Changelist" comment="link aanpassen">
+      <change afterPath="$PROJECT_DIR$/_posts/2026-07-01-connected-rijden-voertuigdata.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2026-07-01-slim-onderweg-apparaten-internet-auto.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/connected-rijden.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/internet-in-de-auto.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2026-04-08-digitale-taximetrie-inbouwen-boordcomputer.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2026-04-08-digitale-taximetrie-inbouwen-boordcomputer.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,27 +64,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Shell Script.Jekyll Serve.executor": "Run",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/mobil/Documents/sites/wifi-in-de-auto/_posts",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Shell Script.Jekyll Serve.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mobil/Documents/sites/wifi-in-de-auto/_posts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mobil\Documents\sites\wifi-in-de-auto\_posts" />
@@ -235,7 +238,11 @@
       <workItem from="1756813961910" duration="2341000" />
       <workItem from="1758800894517" duration="3493000" />
       <workItem from="1772196089104" duration="901000" />
-      <workItem from="1775633879592" duration="1493000" />
+      <workItem from="1775633879592" duration="4030000" />
+      <workItem from="1775727971496" duration="614000" />
+      <workItem from="1775813877484" duration="595000" />
+      <workItem from="1776089114419" duration="596000" />
+      <workItem from="1782996043375" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="Initial site commit">
       <created>1605280423727</created>
@@ -517,14 +524,6 @@
       <option name="project" value="LOCAL" />
       <updated>1684830396262</updated>
     </task>
-    <task id="LOCAL-00050" summary="Update meta description">
-      <option name="closed" value="true" />
-      <created>1728397130800</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1728397130800</updated>
-    </task>
     <task id="LOCAL-00051" summary="Zakelijke wifi artikel">
       <option name="closed" value="true" />
       <created>1729154274174</created>
@@ -589,7 +588,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775634149860</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="link aanpassen">
+      <option name="closed" value="true" />
+      <created>1775653505847</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1775653505847</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,7 +615,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update links" />
     <MESSAGE value="fix newline" />
     <MESSAGE value="Updaten links" />
     <MESSAGE value="nieuw artikel" />
@@ -633,6 +639,7 @@
     <MESSAGE value="Update meta description" />
     <MESSAGE value="Laptop kopen artikel" />
     <MESSAGE value="artikel taximetrie" />
-    <option name="LAST_COMMIT_MESSAGE" value="artikel taximetrie" />
+    <MESSAGE value="link aanpassen" />
+    <option name="LAST_COMMIT_MESSAGE" value="link aanpassen" />
   </component>
 </project>
